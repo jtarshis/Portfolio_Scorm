@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6bulPLTaJXx" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Jeremy_Tarshis</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Jeremy_Tarshis_ORG">
+    <organization identifier="Jeremy_Tarshis_ORG">
+      <title>Jeremy_Tarshis</title>
+      <item identifier="Jeremy_Tarshis_SCO" isvisible="true" identifierref="__6bulPLTaJXx_RES">
+        <title>Jeremy_Tarshis</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6bulPLTaJXx_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6g4VqcnFKHf.png" />
+      <file href="mobile/684uQWViT93.png" />
+      <file href="mobile/5cJWAZqYfrh.png" />
+      <file href="mobile/6aEZS2CsN3K.png" />
+      <file href="mobile/5qU1bzLzEPx.jpg" />
+      <file href="mobile/5fY8mFkgzFI.jpg" />
+      <file href="mobile/6Y2kasml6Jg.jpg" />
+      <file href="mobile/5khQdun5sy7.jpg" />
+      <file href="story_content/video_6g5mXEajOi3_22_56_670x376.mp4" />
+      <file href="story_content/6qIdmaBZcd3_captions.js" />
+      <file href="mobile/poster_6qIdmaBZcd3_video_6g5mXEajOi3_22_56_670x376.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6oMQJBV3grx.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eacZFcy3bq.js" />
+      <file href="html5/data/js/5p22iAxyuUA.js" />
+      <file href="html5/data/js/5uxWhk6Hym9.js" />
+      <file href="html5/data/js/5WKQgB8ARSR.js" />
+      <file href="html5/data/js/5WvCTs82ixK.js" />
+      <file href="html5/data/js/5Z018SXGH32.js" />
+      <file href="html5/data/js/5zXmJh0oDQY.js" />
+      <file href="html5/data/js/644km5N8nOf.js" />
+      <file href="html5/data/js/656FDKjcVe5.js" />
+      <file href="html5/data/js/69gqiO6Ulpj.js" />
+      <file href="html5/data/js/6bxDJZpkYUF.js" />
+      <file href="html5/data/js/6jQMGTjYdTg.js" />
+      <file href="html5/data/js/6LWKokPhXHP.js" />
+      <file href="html5/data/js/6mE7bQFqR1S.js" />
+      <file href="html5/data/js/6nOrQET5vwF.js" />
+      <file href="html5/data/js/6pcMnHllesd.js" />
+      <file href="html5/data/js/6rDq6P0PNJC.js" />
+      <file href="html5/data/js/6YZocLD1Oog.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
